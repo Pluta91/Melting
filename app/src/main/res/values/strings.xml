@@ -5,4 +5,12 @@
     <string name="qr_scanner_title">ABA Scan QR</string>
     <string name="qr_scanner_subtitle">Scan QR</string>
     <string name="qr_scanner_instruction">Aligh frame with QR Code</string>
+
+
+    <!-- Dashboard Activity-->
+    <string name="recommendation">Recommendations</string>
+    <string name="foods">Foods</string>
+    <string name="people">People</string>
+    <string name="account">Accounts</string>
+
 </resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mnu_recommendation"
+        android:icon="@drawable/ic_fav"
+        android:title="@string/recommendation" />
+
+
+    <item
+        android:id="@+id/mnu_foods"
+        android:icon="@drawable/ic_food"
+        android:title="@string/foods" />
+
+    <item
+        android:id="@+id/mnu_people"
+        android:icon="@drawable/ic_people"
+        android:title="@string/people" />
+
+
+    <item
+        android:id="@+id/mnu_accounts"
+        android:icon="@drawable/ic_acc"
+        android:title="@string/account" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</menu>
