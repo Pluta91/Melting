@@ -3,4 +3,10 @@
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
+
+    <color name="salmon">#ff8c69</color>
+    <color name="app_color">#fa8f8f</color>
+    <color name="app_background"> #fbbca7</color>
+    <color name="light_red">#ff4141</color>
+    <color name="Light_cyan">#8fffff</color>
 </resources>
